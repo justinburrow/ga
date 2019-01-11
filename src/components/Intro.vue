@@ -6,7 +6,7 @@
         h2 Hi, I'm Justin.
         p I've been working in digital design for over 15 years -  as a web designer, production artist, front end engineer, art director, acting product manager, and director of User Experience/User Interface Design.  My positions have spanned everything from 15 person t-shirt companies in the warehouse storage of a print shop, to 500 employee overgrown-startups-gone-corporate like The Honest Company.
 
-        p I'd love to explore any possible fit with good-american where my digital design and user experience expertise might find a fit.  I've mentored, executed, advocated, and championed world class interface designs for the last few years - everything from wireframing and user flows, to actually writing the interaction design CSS so the Tech team understands the expectations of fidelity.
+        p I'd love to explore any possible fit with Good American where my engineering, digital design and user experience expertise might find a fit.  I've mentored, executed, advocated, and championed world class interface designs for the last few years - everything from wireframing and user flows, to actually writing the interaction design CSS so the Tech team understands the expectations of fidelity.
 
         p I've put together some information about my skill set and what I'm looking for, as well as some case study examples of my work to hopefully provide you with enough information to get a sense of whether I'd be a great fit for this position.
 
